@@ -1,5 +1,5 @@
-# QR-Generator
-Simple QR Generator
+# QR Code Generator
+A Simple QR code generator.
 
 # How to use?
 Easy, just open the index.html file and you will see the following screen:
